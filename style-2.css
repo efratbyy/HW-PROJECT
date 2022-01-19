@@ -1,0 +1,51 @@
+body{
+    direction: rtl;
+    background-image: url("18.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+h1{
+    font-size: 50px;
+   background-color: mediumseagreen;
+   text-align: center;
+}
+label{
+background-color: darkgray;
+font-size: 20px;
+}
+::placeholder{
+    color: green;
+}
+footer{
+    text-align: center;
+    background-color: mediumseagreen;
+}
+.slider{
+width: 300px;
+}
+.slidecontainer{
+    font-size: 20px;
+    background-color: darkgray;
+    width: 350px;
+}
+.submit{
+    color: darkgreen;
+    width: 100px;
+    height: 45px;
+    font-size: 20px;
+    background-color: khaki;
+}
+.gender{
+    background-color: darkgrey;
+ width: 120px;
+}
+.free-time{
+    "background-color: darkgrey; 
+    width: 760px; 
+    display: inline"  
+}
+legend{
+    font-size: 20px;
+    background-color: darkgrey;
+    width: 270px;
+}
